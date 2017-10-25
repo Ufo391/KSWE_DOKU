@@ -91,7 +91,7 @@ Ionic Enviroment</panel_attributes>
       <w>329</w>
       <h>126</h>
     </coordinates>
-    <panel_attributes>Server</panel_attributes>
+    <panel_attributes>Datenbank</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -109,12 +109,13 @@ Ionic Enviroment</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>630</x>
-      <y>273</y>
+      <y>266</y>
       <w>112</w>
-      <h>21</h>
+      <h>28</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>140.0;10.0;10.0;10.0</additional_attributes>
+    <panel_attributes>lt=&lt;-
+Rest</panel_attributes>
+    <additional_attributes>140.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
@@ -132,10 +133,11 @@ Ionic Enviroment</panel_attributes>
     <coordinates>
       <x>462</x>
       <y>336</y>
-      <w>21</w>
+      <w>35</w>
       <h>133</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
+    <panel_attributes>lt=&lt;-
+sftp</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;170.0</additional_attributes>
   </element>
 </diagram>
