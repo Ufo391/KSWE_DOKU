@@ -4,10 +4,10 @@
   <element>
     <id>UMLDeployment</id>
     <coordinates>
-      <x>105</x>
-      <y>175</y>
+      <x>301</x>
+      <y>203</y>
       <w>329</w>
-      <h>175</h>
+      <h>140</h>
     </coordinates>
     <panel_attributes>Server</panel_attributes>
     <additional_attributes/>
@@ -15,10 +15,10 @@
   <element>
     <id>UMLDeployment</id>
     <coordinates>
-      <x>448</x>
-      <y>154</y>
+      <x>728</x>
+      <y>182</y>
       <w>427</w>
-      <h>217</h>
+      <h>175</h>
     </coordinates>
     <panel_attributes>Client</panel_attributes>
     <additional_attributes/>
@@ -26,21 +26,9 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>119</x>
-      <y>203</y>
+      <x>315</x>
+      <y>497</y>
       <w>294</w>
-      <h>126</h>
-    </coordinates>
-    <panel_attributes>symbol=component
-OS</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLGeneric</id>
-    <coordinates>
-      <x>259</x>
-      <y>231</y>
-      <w>133</w>
       <h>70</h>
     </coordinates>
     <panel_attributes>symbol=component
@@ -50,9 +38,9 @@ Relational Database</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>133</x>
-      <y>231</y>
-      <w>126</w>
+      <x>329</x>
+      <y>259</y>
+      <w>273</w>
       <h>70</h>
     </coordinates>
     <panel_attributes>symbol=component
@@ -62,20 +50,8 @@ Business Logic</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>455</x>
-      <y>182</y>
-      <w>406</w>
-      <h>175</h>
-    </coordinates>
-    <panel_attributes>symbol=component
-OS</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLGeneric</id>
-    <coordinates>
-      <x>504</x>
-      <y>252</y>
+      <x>798</x>
+      <y>245</y>
       <w>154</w>
       <h>70</h>
     </coordinates>
@@ -86,8 +62,8 @@ Hardware</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>658</x>
-      <y>252</y>
+      <x>952</x>
+      <y>245</y>
       <w>147</w>
       <h>70</h>
     </coordinates>
@@ -98,13 +74,68 @@ Application</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>476</x>
-      <y>210</y>
-      <w>364</w>
-      <h>133</h>
+      <x>756</x>
+      <y>217</y>
+      <w>371</w>
+      <h>119</h>
     </coordinates>
     <panel_attributes>symbol=component
 Ionic Enviroment</panel_attributes>
     <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLDeployment</id>
+    <coordinates>
+      <x>301</x>
+      <y>462</y>
+      <w>329</w>
+      <h>126</h>
+    </coordinates>
+    <panel_attributes>Server</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>623</x>
+      <y>273</y>
+      <w>119</w>
+      <h>21</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;150.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>630</x>
+      <y>273</y>
+      <w>112</w>
+      <h>21</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>140.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>462</x>
+      <y>336</y>
+      <w>21</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;180.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>462</x>
+      <y>336</y>
+      <w>21</w>
+      <h>133</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;170.0</additional_attributes>
   </element>
 </diagram>
