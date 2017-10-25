@@ -1,0 +1,44 @@
+StarDuell
+
+4 Modi (aufnehmen, Duelle, bewerten, top of the week)
+
+Aufnehmen:
+Genre auswählen
+Thema wird vorgeschlagen
+Melodie auswählen (auch a Capella)
+Gesang wird eine gewisse Zeit aufgenommen
+
+Duelle:
+wie Aufnehmen (ggf. auch ohne Thema)
+Aufnahme wird hochgeladen
+Zufälliger Gegner ist dran
+Duell wird unter Duelle gespeichert
+Abstimmung gilt für eine gewisse Zeit
+Nach Ablauf wird das Duell unter Duelle mit Wertung angezeigt
+
+Bewerten (einzelne Videos oder ganze Duelle):
+Neue Aufnahmen vom Server werden angezeigt
+Swipe nach links: like
+Swipe nach rechts: dislike
+Das ganze geht auch vorzeitig
+
+Archiev:
+Folgende Filterregeln:
+Top User
+Eine Liste der besten Videos der Woche wird angezeigt
+Beste Duelle
+Ranking nach likes
+Eigene Duelle
+
+TODO:
+User Stories
+Gui Mockups
+System-Architekturdiagramm
+Use Case Diagramme
+Datenmodell
+
+Tools:
+Automatisches Testen (travis)
+Heroku
+Visual Studio Code wegen Typescript
+Webstorm
