@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<diagram program="umlet" version="14.2">
+<?xml version="1.0" encoding="UTF-8"?><diagram program="umlet" version="13.3">
   <zoom_level>7</zoom_level>
   <element>
     <id>UMLDeployment</id>
@@ -17,7 +16,7 @@
     <coordinates>
       <x>728</x>
       <y>182</y>
-      <w>427</w>
+      <w>259</w>
       <h>175</h>
     </coordinates>
     <panel_attributes>Client</panel_attributes>
@@ -50,19 +49,7 @@ Business Logic</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>798</x>
-      <y>245</y>
-      <w>154</w>
-      <h>70</h>
-    </coordinates>
-    <panel_attributes>symbol=component
-Hardware</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLGeneric</id>
-    <coordinates>
-      <x>952</x>
+      <x>784</x>
       <y>245</y>
       <w>147</w>
       <h>70</h>
@@ -76,7 +63,7 @@ Application</panel_attributes>
     <coordinates>
       <x>756</x>
       <y>217</y>
-      <w>371</w>
+      <w>203</w>
       <h>119</h>
     </coordinates>
     <panel_attributes>symbol=component
