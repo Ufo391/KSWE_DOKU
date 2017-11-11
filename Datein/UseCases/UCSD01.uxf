@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<diagram program="umlet" version="14.2">
+<?xml version="1.0" encoding="UTF-8"?><diagram program="umlet" version="13.3">
   <zoom_level>11</zoom_level>
   <element>
     <id>UMLGeneric</id>
@@ -19,7 +18,7 @@ halign=left</panel_attributes>
       <x>0</x>
       <y>209</y>
       <w>66</w>
-      <h>121</h>
+      <h>110</h>
     </coordinates>
     <panel_attributes>User</panel_attributes>
     <additional_attributes/>
@@ -29,7 +28,7 @@ halign=left</panel_attributes>
     <coordinates>
       <x>176</x>
       <y>143</y>
-      <w>132</w>
+      <w>154</w>
       <h>44</h>
     </coordinates>
     <panel_attributes>Video aufnehmen</panel_attributes>
@@ -40,7 +39,7 @@ halign=left</panel_attributes>
     <coordinates>
       <x>176</x>
       <y>440</y>
-      <w>132</w>
+      <w>154</w>
       <h>44</h>
     </coordinates>
     <panel_attributes>Thema auswählen</panel_attributes>
@@ -51,7 +50,7 @@ halign=left</panel_attributes>
     <coordinates>
       <x>176</x>
       <y>319</y>
-      <w>132</w>
+      <w>143</w>
       <h>44</h>
     </coordinates>
     <panel_attributes>Video bewerten</panel_attributes>
@@ -62,7 +61,7 @@ halign=left</panel_attributes>
     <coordinates>
       <x>176</x>
       <y>198</y>
-      <w>132</w>
+      <w>143</w>
       <h>44</h>
     </coordinates>
     <panel_attributes>Video speichern</panel_attributes>
@@ -115,14 +114,14 @@ halign=left</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>297</x>
+      <x>319</x>
       <y>143</y>
-      <w>165</w>
+      <w>143</w>
       <h>44</h>
     </coordinates>
     <panel_attributes>lt=.&gt;
 &lt;&lt;extends&gt;&gt;</panel_attributes>
-    <additional_attributes>130.0;20.0;10.0;20.0</additional_attributes>
+    <additional_attributes>110.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
@@ -200,5 +199,27 @@ halign=left</panel_attributes>
     </coordinates>
     <panel_attributes/>
     <additional_attributes>10.0;10.0;130.0;130.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>44</x>
+      <y>44</y>
+      <w>154</w>
+      <h>165</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;130.0;120.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>176</x>
+      <y>33</y>
+      <w>165</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes>Modus auswählen</panel_attributes>
+    <additional_attributes/>
   </element>
 </diagram>
