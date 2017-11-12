@@ -92,9 +92,9 @@ Die Zielgruppe definiert sich durch, Personen welche an Musik interessiert sind,
 # Use-Case Diagramme
 
 ## Gesamtsystem
-![picture](./img/UCSD2.png)
+![picture](./img/UCSD02.png)
 
-![picture](./img/UCSD1.png)
+![picture](./img/UCSD01.png)
 
 # Datenmodell
 
