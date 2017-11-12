@@ -92,9 +92,9 @@ Die Zielgruppe definiert sich durch, Personen welche an Musik interessiert sind,
 # Use-Case Diagramme
 
 ## Gesamtsystem
-![picture](./img/UCD2.png)
+![picture](./img/UCSD2.png)
 
-![picture](./img/UCD1.png)
+![picture](./img/UCSD1.png)
 
 # Datenmodell
 
@@ -110,7 +110,7 @@ Der Server steht ausschließlich in Kontakt zum Webserver und niemals direkt zum
 
 # Architekturmodell
 
-![picture](./img/Architekturmodell - Starduell.png)
+![picture](./img/Architekturmodell.png)
 
 ## 1 Ionic
 
@@ -151,7 +151,6 @@ Speicherplatz: ab 300KiB
 Arbeitsspeicher: ab 104KiB (Stack = 4KiB & Heap = 100KiB)
 #### 1.4 Tools und Libaries zur Entwicklung
 Mit dem kostenlosen SQLite Database Browser ist es möglich .db Datein zu öffnen und zu erstellen. Es ist ebenfalls möglich direkt Skripte zu schreiben und sie auszuführen. Datenmanipulation in bestehenden Datenbankdomänen ist auch gegeben.
-![picture](./img/SQLiteDatabaseBrowserPortable.png)
 
 ## 3 REST
 
