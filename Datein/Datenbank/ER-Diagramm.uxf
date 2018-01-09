@@ -4,7 +4,7 @@
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>666</x>
+      <x>684</x>
       <y>792</y>
       <w>234</w>
       <h>81</h>
@@ -15,7 +15,7 @@
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>819</x>
+      <x>837</x>
       <y>0</y>
       <w>99</w>
       <h>36</h>
@@ -26,7 +26,7 @@
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>576</x>
+      <x>594</x>
       <y>0</y>
       <w>99</w>
       <h>36</h>
@@ -37,7 +37,7 @@
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>693</x>
+      <x>711</x>
       <y>0</y>
       <w>99</w>
       <h>36</h>
@@ -48,7 +48,7 @@
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>675</x>
+      <x>693</x>
       <y>81</y>
       <w>234</w>
       <h>81</h>
@@ -59,7 +59,7 @@
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>720</x>
+      <x>738</x>
       <y>945</y>
       <w>126</w>
       <h>36</h>
@@ -70,7 +70,7 @@
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>1044</x>
+      <x>1062</x>
       <y>567</y>
       <w>234</w>
       <h>81</h>
@@ -81,7 +81,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>900</x>
+      <x>918</x>
       <y>135</y>
       <w>297</w>
       <h>450</h>
@@ -95,7 +95,7 @@ likes</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>891</x>
+      <x>909</x>
       <y>639</y>
       <w>306</w>
       <h>189</h>
@@ -109,7 +109,7 @@ part of</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>729</x>
+      <x>747</x>
       <y>27</y>
       <w>27</w>
       <h>72</h>
@@ -120,7 +120,7 @@ part of</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>810</x>
+      <x>828</x>
       <y>27</y>
       <w>81</w>
       <h>72</h>
@@ -131,7 +131,7 @@ part of</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>612</x>
+      <x>630</x>
       <y>27</y>
       <w>99</w>
       <h>72</h>
@@ -142,7 +142,7 @@ part of</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>774</x>
+      <x>792</x>
       <y>864</y>
       <w>27</w>
       <h>99</h>
@@ -153,7 +153,7 @@ part of</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>666</x>
+      <x>684</x>
       <y>567</y>
       <w>234</w>
       <h>81</h>
@@ -164,7 +164,7 @@ part of</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>954</x>
+      <x>972</x>
       <y>0</y>
       <w>99</w>
       <h>36</h>
@@ -175,7 +175,7 @@ part of</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>882</x>
+      <x>900</x>
       <y>27</y>
       <w>117</w>
       <h>72</h>
@@ -186,7 +186,7 @@ part of</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>315</x>
+      <x>333</x>
       <y>567</y>
       <w>234</w>
       <h>81</h>
@@ -197,21 +197,21 @@ part of</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>774</x>
+      <x>792</x>
       <y>639</y>
       <w>81</w>
       <h>171</h>
     </coordinates>
     <panel_attributes>lt=-
 m1=1
-m2=1..n
+m2=0..n
 belongs to</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;170.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>774</x>
+      <x>792</x>
       <y>153</y>
       <w>63</w>
       <h>432</h>
@@ -225,7 +225,7 @@ creates</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>594</x>
+      <x>612</x>
       <y>945</y>
       <w>99</w>
       <h>36</h>
@@ -236,7 +236,7 @@ creates</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>873</x>
+      <x>891</x>
       <y>864</y>
       <w>81</w>
       <h>99</h>
@@ -247,7 +247,7 @@ creates</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>423</x>
+      <x>441</x>
       <y>72</y>
       <w>270</w>
       <h>513</h>
@@ -261,7 +261,7 @@ creates</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>540</x>
+      <x>558</x>
       <y>585</y>
       <w>144</w>
       <h>45</h>
@@ -275,7 +275,7 @@ belongs to</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>144</x>
+      <x>162</x>
       <y>531</y>
       <w>99</w>
       <h>36</h>
@@ -286,7 +286,7 @@ belongs to</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>234</x>
+      <x>252</x>
       <y>540</y>
       <w>99</w>
       <h>63</h>
@@ -297,7 +297,7 @@ belongs to</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>477</x>
+      <x>495</x>
       <y>369</y>
       <w>234</w>
       <h>81</h>
@@ -308,7 +308,7 @@ belongs to</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>585</x>
+      <x>603</x>
       <y>441</y>
       <w>162</w>
       <h>144</h>
@@ -322,7 +322,7 @@ belongs to</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>297</x>
+      <x>315</x>
       <y>792</y>
       <w>234</w>
       <h>81</h>
@@ -333,7 +333,7 @@ belongs to</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>540</x>
+      <x>558</x>
       <y>306</y>
       <w>99</w>
       <h>36</h>
@@ -344,7 +344,7 @@ belongs to</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>171</x>
+      <x>189</x>
       <y>837</y>
       <w>99</w>
       <h>36</h>
@@ -355,7 +355,7 @@ belongs to</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>117</x>
+      <x>135</x>
       <y>792</y>
       <w>135</w>
       <h>36</h>
@@ -366,7 +366,7 @@ belongs to</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>243</x>
+      <x>261</x>
       <y>792</y>
       <w>72</w>
       <h>36</h>
@@ -377,7 +377,7 @@ belongs to</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>261</x>
+      <x>279</x>
       <y>837</y>
       <w>54</w>
       <h>36</h>
@@ -388,7 +388,7 @@ belongs to</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>585</x>
+      <x>603</x>
       <y>333</y>
       <w>27</w>
       <h>54</h>
@@ -399,7 +399,7 @@ belongs to</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>891</x>
+      <x>909</x>
       <y>945</y>
       <w>99</w>
       <h>36</h>
@@ -410,7 +410,7 @@ belongs to</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>630</x>
+      <x>648</x>
       <y>864</y>
       <w>81</w>
       <h>99</h>
@@ -421,7 +421,7 @@ belongs to</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>297</x>
+      <x>315</x>
       <y>972</y>
       <w>234</w>
       <h>81</h>
@@ -432,7 +432,7 @@ belongs to</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>171</x>
+      <x>189</x>
       <y>990</y>
       <w>99</w>
       <h>36</h>
@@ -443,7 +443,7 @@ belongs to</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>522</x>
+      <x>540</x>
       <y>819</y>
       <w>162</w>
       <h>45</h>
@@ -457,7 +457,7 @@ belongs to</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>405</x>
+      <x>423</x>
       <y>864</y>
       <w>81</w>
       <h>126</h>
@@ -471,7 +471,7 @@ belongs to</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>261</x>
+      <x>279</x>
       <y>990</y>
       <w>54</w>
       <h>36</h>
@@ -482,7 +482,7 @@ belongs to</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>918</x>
+      <x>936</x>
       <y>567</y>
       <w>99</w>
       <h>36</h>
@@ -493,7 +493,7 @@ belongs to</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>891</x>
+      <x>909</x>
       <y>576</y>
       <w>45</w>
       <h>45</h>
@@ -504,7 +504,7 @@ belongs to</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>504</x>
+      <x>522</x>
       <y>198</y>
       <w>162</w>
       <h>81</h>
@@ -515,7 +515,7 @@ belongs to</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>657</x>
+      <x>675</x>
       <y>153</y>
       <w>117</w>
       <h>117</h>
@@ -529,7 +529,7 @@ follows</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>576</x>
+      <x>594</x>
       <y>126</y>
       <w>117</w>
       <h>90</h>
@@ -543,7 +543,7 @@ contains</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>144</x>
+      <x>162</x>
       <y>612</y>
       <w>99</w>
       <h>36</h>
@@ -554,7 +554,7 @@ contains</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>234</x>
+      <x>252</x>
       <y>603</y>
       <w>99</w>
       <h>45</h>
@@ -565,7 +565,7 @@ contains</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>891</x>
+      <x>909</x>
       <y>81</y>
       <w>459</w>
       <h>801</h>
@@ -578,7 +578,7 @@ m2=1</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>864</x>
+      <x>882</x>
       <y>153</y>
       <w>198</w>
       <h>189</h>
@@ -592,7 +592,7 @@ joins</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>945</x>
+      <x>963</x>
       <y>324</y>
       <w>162</w>
       <h>81</h>
@@ -603,7 +603,7 @@ joins</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>837</x>
+      <x>855</x>
       <y>396</y>
       <w>225</w>
       <h>189</h>
@@ -616,7 +616,7 @@ m2=0..n</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>918</x>
+      <x>936</x>
       <y>612</y>
       <w>99</w>
       <h>36</h>
@@ -627,7 +627,7 @@ m2=0..n</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>891</x>
+      <x>909</x>
       <y>612</y>
       <w>45</w>
       <h>45</h>
@@ -638,7 +638,7 @@ m2=0..n</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>846</x>
+      <x>864</x>
       <y>351</y>
       <w>81</w>
       <h>36</h>
@@ -649,7 +649,7 @@ m2=0..n</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>918</x>
+      <x>936</x>
       <y>351</y>
       <w>45</w>
       <h>36</h>
@@ -660,7 +660,7 @@ m2=0..n</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>666</x>
+      <x>684</x>
       <y>729</y>
       <w>81</w>
       <h>36</h>
@@ -671,7 +671,7 @@ m2=0..n</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>369</x>
+      <x>387</x>
       <y>729</y>
       <w>81</w>
       <h>36</h>
@@ -682,7 +682,7 @@ m2=0..n</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>405</x>
+      <x>423</x>
       <y>756</y>
       <w>27</w>
       <h>54</h>
@@ -693,7 +693,7 @@ m2=0..n</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>702</x>
+      <x>720</x>
       <y>756</y>
       <w>27</w>
       <h>54</h>
