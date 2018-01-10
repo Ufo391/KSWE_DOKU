@@ -761,10 +761,11 @@ m2=0..n</panel_attributes>
     <coordinates>
       <x>378</x>
       <y>639</y>
-      <w>630</w>
-      <h>81</h>
+      <w>648</w>
+      <h>90</h>
     </coordinates>
-    <panel_attributes/>
+    <panel_attributes>m1=0..n
+m2=1</panel_attributes>
     <additional_attributes>680.0;10.0;680.0;70.0;10.0;70.0</additional_attributes>
   </element>
 </diagram>
